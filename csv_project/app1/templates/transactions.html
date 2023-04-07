@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+
+<div class="container card-body">
+  <h1 style="text-align:center;">Health and Beauty Transactions</h1>
+  <ul>
+    {% for transaction in transactions %}
+      <li>{{ transaction.date }} - {{ transaction.price }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+  
+  
+{% endblock %}

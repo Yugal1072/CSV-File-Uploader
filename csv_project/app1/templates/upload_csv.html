@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<div class="container card shadow-lg mt-5" style="text-align: center; padding: 30px;">
+  <h3>Please Upload the File</h3>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button class= "btn btn-success" type="submit">Upload CSV</button>
+  </form>
+
+</div>
+
+  
+
+
+{% endblock %}

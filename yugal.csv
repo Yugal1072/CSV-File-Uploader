@@ -1,0 +1,71 @@
+Invoice ID,Product line,Unit price,Quantity,Tax,Total,Date,Time
+INV001,Health and beauty,10,2,1,21,2023-04-07,10.00.00
+INV002,Fashion accessories,15,3,1.5,48.5,2023-04-07,11.00.00
+INV003,Health and beauty,12,4,1.2,50.8,2023-04-07,12.00.00
+INV004,Sports and travel,20,1,2,22,2023-04-07,13.00.00
+INV005,Home and lifestyle,30,2,3,66,2023-04-07,14.00.00
+INV006,Food and beverages,5,5,0.5,27.5,2023-04-07,15.00.00
+INV007,Fashion accessories,20,1,2,22,2023-04-07,16.00.00
+INV008,Sports and travel,25,2,2.5,55,2023-04-07,17.00.00
+INV009,Electronic accessories,15,2,1.5,31.5,2023-04-07,18.00.00
+INV010,Health and beauty,12,3,1.2,38.4,2023-04-07,19.00.00
+INV011,Fashion accessories,25,4,2.5,107.5,2023-04-08,10.00.00
+INV012,Food and beverages,5,5,0.5,27.5,2023-04-08,11.00.00
+INV013,Home and lifestyle,10,5,0.5,52.5,2023-04-08,12.00.00
+INV014,Electronic accessories,15,2,1.5,31.5,2023-04-08,13.00.00
+INV015,Health and beauty,20,3,2,62,2023-04-08,14.00.00
+INV016,Home and lifestyle,15,3,1.5,46.5,2023-04-08,15.00.00
+INV017,Health and beauty,12,2,1.2,25.2,2023-04-08,16.00.00
+INV018,Sports and travel,25,4,2.5,107.5,2023-04-08,17.00.00
+INV019,Home and lifestyle,30,3,4.5,97.5,2023-04-08,18.00.00
+INV020,Fashion accessories,10,3,1.5,33.5,2023-04-08,19.00.00
+INV021,Food and beverages,15,4,3,63,2023-04-09,10.00.00
+INV022,Home and lifestyle,20,5,5,105,2023-04-09,11.00.00
+INV023,Sports and travel,30,3,4.5,94.5,2023-04-09,12.00.00
+INV024,Electronic accessories,5,5,1.25,31.25,2023-04-09,13.00.00
+INV025,Food and beverages,15,5,3.75,78.75,2023-04-09,14.00.00
+INV026,Sports and travel,10,1,0.5,10.5,2023-04-09,15.00.00
+INV027,Home and lifestyle,15,2,1.5,31.5,2023-04-09,16.00.00
+INV028,Fashion accessories,25,4,5,125,2023-04-09,17.00.00
+INV029,Electronic accessories,10,2,1,21,2023-04-09,18.00.00
+INV030,Food and beverages,10,2,1,21,2023-04-09,19.00.00
+INV031,Sports and travel,20,3,3,63,2023-04-10,10.00.00
+INV032,Electronic accessories,15,2,1.5,31.5,2023-04-10,11.00.00
+INV033,Health and beauty,10,3,1.5,31.5,2023-04-10,12.00.00
+INV034,Fashion accessories,15,1,0.75,15.75,2023-04-10,13.00.00
+INV035,Food and beverages,15,3,2.25,47.25,2023-04-10,14.00.00
+INV036,Sports and travel,30,5,7.5,157.5,2023-04-10,15.00.00
+INV037,Health and beauty,25,4,5,125,2023-04-10,16.00.00
+INV038,Electronic accessories,15,5,3.75,78.75,2023-04-10,17.00.00
+INV039,Fashion accessories,10,1,0.5,10.5,2023-04-10,18.00.00
+INV040,Food and beverages,15,2,1.5,31.5,2023-04-10,19.00.00
+INV041,Home and lifestyle,20,3,3,63,2023-04-11,10.00.00
+INV042,Fashion accessories,15,2,1.5,31.5,2023-04-11,11.00.00
+INV043,Electronic accessories,10,1,0.5,10.5,2023-04-11,12.00.00
+INV044,Food and beverages,15,4,3,63,2023-04-11,13.00.00
+INV045,Sports and travel,25,2,2.5,52.5,2023-04-11,14.00.00
+INV046,Health and beauty,20,1,1,21,2023-04-11,15.00.00
+INV047,Electronic accessories,10,1,0.5,10.5,2023-04-11,16.00.00
+INV048,Food and beverages,15,5,3.75,78.75,2023-04-11,17.00.00
+INV049,Fashion accessories,10,2,1,21,2023-04-11,18.00.00
+INV050,Home and lifestyle,10,3,1.5,31.5,2023-04-11,19.00.00
+INV051,Electronic accessories,10,2,1,21,2023-04-12,10.00.00
+INV052,Fashion accessories,15,3,2.25,47.25,2023-04-12,11.00.00
+INV053,Food and beverages,15,1,0.75,15.75,2023-04-12,12.00.00
+INV054,Sports and travel,25,4,5,125,2023-04-12,13.00.00
+INV055,Electronic accessories,15,4,6,126,2023-04-12,14.00.00
+INV056,Health and beauty,10,3,1.5,31.5,2023-04-12,15.00.00
+INV057,Sports and travel,30,3,4.5,94.5,2023-04-12,16.00.00
+INV058,Electronic accessories,15,2,1.5,31.5,2023-04-12,17.00.00
+INV059,Food and beverages,10,5,2.5,52.5,2023-04-12,18.00.00
+INV060,Sports and travel,30,2,3,63,2023-04-12,19.00.00
+INV061,Home and lifestyle,15,1,0.75,15.75,2023-04-13,10.00.00
+INV062,Fashion accessories,20,4,4,84,2023-04-13,11.00.00
+INV063,Sports and travel,30,5,7.5,157.5,2023-04-13,12.00.00
+INV064,Electronic accessories,15,2,1.5,31.5,2023-04-13,13.00.00
+INV065,Food and beverages,10,2,1,21,2023-04-13,14.00.00
+INV066,Fashion accessories,15,1,0.75,15.75,2023-04-13,15.00.00
+INV067,Health and beauty,25,3,3.75,78.75,2023-04-13,16.00.00
+INV068,Sports and travel,30,4,6,126,2023-04-13,17.00.00
+INV069,Home and lifestyle,15,2,1.5,31.5,2023-04-13,18.00.00
+INV070,Electronic accessories,10,1,0.5,10.5,2023-04-13,19.00.00
